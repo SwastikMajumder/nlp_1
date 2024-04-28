@@ -1,0 +1,135 @@
+f_vp
+ f_aux
+  u_1
+ f_adj
+  u_0
+
+f_vp
+ f_aux
+  u_1
+ f_advadj
+  f_adv
+   d_not
+  f_adj
+   g_antonym
+    u_0
+
+g_antonym
+ d_happy
+
+d_unhappy
+
+g_antonym
+ d_happy
+
+d_sad
+
+g_firstperson
+ f_s
+  f_np
+   f_pro
+    d_you
+  f_vp
+   f_aux 
+    d_are
+   u_0
+
+f_s
+ f_np
+  f_pro
+   d_i
+ f_vp
+  f_aux 
+   d_am
+  u_0
+
+g_interrogate
+ f_s
+  f_np
+   f_pro
+    u_0
+  f_vp
+   f_aux
+    u_1
+   f_adj
+    u_2
+
+f_s
+ f_q
+  d_how
+ f_aux
+  u_1
+ f_np
+  f_pro
+   u_0
+
+g_logiceq
+ u_0
+ u_0
+
+d_valtruth
+
+g_if
+ d_valtruth
+ u_0
+
+u_0
+
+g_tense
+ f_s
+  f_np
+   u_0
+  f_vp
+   f_aux
+    d_is
+   u_1
+
+d_valpresenttense
+
+g_continuous
+ f_s
+  f_np
+   f_pro
+    u_0
+  f_verb
+   u_1
+
+f_s
+ f_np
+  f_pro
+   u_0
+ f_vp
+  f_aux
+   h_auxform
+    u_0
+  f_verb
+   h_continuousform
+    u_1
+
+h_auxform
+ d_i
+
+d_am
+
+h_continuousform
+ d_run
+
+d_running
+
+g_secondperson
+ f_s
+  f_np
+   f_pro
+    u_0
+  u_1
+
+f_s
+ f_np
+  f_pro
+   d_you
+ u_1
+
+h_auxform
+ d_you
+
+d_are
